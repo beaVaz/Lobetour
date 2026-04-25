@@ -119,14 +119,14 @@
 
  #video-main-lobe iframe {
     width: 100%;
-     height: 47.4em;
+     height: 45em;
      border-radius: 14px;
      transition: all .3s ease-in-out;
  }
 
  #video-main-lobe iframe:hover {
      transform: scale(1.01);
-     box-shadow: 1rem 4rem 7rem #808080;
+     box-shadow: 1rem 3rem 7rem #808080;
 
  }
 
